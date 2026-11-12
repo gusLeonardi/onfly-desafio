@@ -26,6 +26,6 @@ Os assuntos tratados foram:
 
 ## Registro original
 
-Anexar ou incorporar abaixo a exportação original da conversa, contendo os prompts e as respostas efetivamente trocados.
+(https://chatgpt.com/share/6af5ca24-3ccc-83e9-bf9a-8a2cb2897c23)
 
 Este resumo é um índice das interações e não substitui o histórico solicitado pela Onfly.
